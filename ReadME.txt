@@ -9,4 +9,5 @@
 *【T200InverseAcceleration】用于对机器人加速度问题进行逆解的类方法，通过注释和绘图标记确认过单位
 *【T200Dynamics】生成机器人刚体动力学方程，根据主动关节加速度求解主动关节驱动力的类方法，通过注释和绘图标记确认过单位
 
-【TestforTriMule200】TriMule200机器人类的test程序，用于测试各种类方法是否可以正常运行
+【Test_BasicFunctionsofTriMule200Class】用于测试TriMule200Class中各种类方法的基本性能
+【Test_TriMule200DynamicModeling】用于测试TriMule200Class中动力学建模的效果，可生成图片并与original程序比较
